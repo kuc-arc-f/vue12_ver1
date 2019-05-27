@@ -1,24 +1,23 @@
-# README
+# vue12_ver1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ Version: 0.9.1
 
-Things you may want to cover:
+ Author  : Kouji Nakashima / kuc-arc-f.com
 
-* Ruby version
+ date    : 2019/05/16
 
-* System dependencies
+***
+### Summary
 
-* Configuration
+vue12_ver1:
 
-* Database creation
 
-* Database initialization
+vue.js +rails5 seting,sample
 
-* How to run the test suite
+***
+### Blog
 
-* Services (job queues, cache servers, search engines, etc.)
+https://knaka0209.hatenablog.com/entry/vue_spa_15
 
-* Deployment instructions
+***
 
-* ...
